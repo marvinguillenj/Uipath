@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DatatableDataLogs&Sequence_1",
+        "DataLogs&Sequence_1",
+        "StrPathExamples&Sequence_1",
+        "VarData&Sequence_1",
+        "profilestatus&Sequence_1",
+        "profile&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "StatusLabel&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
